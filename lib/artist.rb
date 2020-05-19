@@ -1,2 +1,2 @@
-song.artist.name 
+song.artist.name
 => "Bad Brains"
