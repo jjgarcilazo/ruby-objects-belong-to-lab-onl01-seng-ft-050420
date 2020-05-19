@@ -1,3 +1,3 @@
-song.artist.name
-=> "Bad Brains"
+class artist
+  attr_accessor :name
 end
